@@ -6,7 +6,10 @@ https://t.me/Eggwane
 We are a bunch of security researchers involved in Android architecture security looking for collaboration/clients.
 
 ## Device farm 
-We offer a device farm with on demand bypasses (PlayIntegrity, sensor injection, key attestation as a service, ...). 
+We offer a device farm with on demand bypasses 
+- PlayIntegrity (hardware backed, strong integrity) 
+- Sensor injection (camera injection, GPS spoofing, ...)
+- Key attestation as a service
 
 ## Reverse Engineering
 We offer also reverse engineering on the entire stack basically : 
